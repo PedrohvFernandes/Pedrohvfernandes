@@ -1,4 +1,4 @@
-## opa! Eu sou o Pedro Henrique 😀 
+## Opa! Eu sou o Pedro Henrique 😀 
  <div>
   <a href="https://github.com/PedrohvFernandes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrohvFernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
