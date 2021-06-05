@@ -1,28 +1,18 @@
 
-<p align="center">
-  <a href="#">
-    <img align="center" width="1000" src="https://github.com/PedrohvFernandes/Pedrohvfernandes/blob/main/Pedro%20Henrique.png?raw=true" />
-  </a>
- <a href="#">
-    <img align="center"  width="200" src="https://github.com/PedrohvFernandes/Pedrohvfernandes/blob/main/34133-naruto-animated-at-cocopry-sticker-5.gif?raw=true" />
-  </a>
-</p>
-
-</br>
+<br>
 
 <div>
   <a href="https://github.com/PedrohvFernandes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrohvFernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrohvFernandes&layout=compact&langs_count=8&theme=dark"/>
- 
-</br>
+    
 </br>
  
    ## Opa! Eu sou o Pedro Henrique <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Sobre mim
 
-- 👨‍💻 Pretendo me tornar um otimo **Desenvolvedor WEB**.
+- 👨‍💻 Pretendo me tornar um otimo **Desenvolvedor**.
 - 🌱 Estudante de Sistema de Informação na Newton Paiva, 3° semestre.
 - 💙 Interesse: Java, HTML, CSS, JS e React
 - :video_game: Gosta de jogar League of Legends? É só chamar, vamos subir de elo juntos ou não kkkkkkkk
