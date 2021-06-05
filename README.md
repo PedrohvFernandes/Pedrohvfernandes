@@ -1,12 +1,11 @@
-
-<br>
-
 <div>
+  
+  <p align="center">
   <a href="https://github.com/PedrohvFernandes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrohvFernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrohvFernandes&layout=compact&langs_count=8&theme=dark"/>
-    
-</br>
+    </p>
+
  
    ## Opa! Eu sou o Pedro Henrique <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
