@@ -14,7 +14,6 @@
   <a href="https://github.com/PedrohvFernandes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrohvFernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrohvFernandes&layout=compact&langs_count=8&theme=dark"/>
-<div>
  
 </br>
 </br>
@@ -77,4 +76,7 @@
  </p>
 
 </p>
-  
+
+  ![Snake animation](https://github.com/PedrohvFernandes/PedrohvFernandes/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
