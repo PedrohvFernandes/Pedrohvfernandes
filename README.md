@@ -34,6 +34,23 @@
    
 </p>
 
+## Google Cloud Essentials Quest Challenge Stamps :cloud:
+<p align="center">
+    <img height="65" src="https://github.com/PedrohvFernandes/Pedrohvfernandes/blob/main/.github/Selos%20dos%20desafios%20da%20quest%20Google%20Cloud%20Essentials/Google%20Cloud%20Essentials.png?raw=true">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="65" src="https://github.com/PedrohvFernandes/Pedrohvfernandes/blob/main/.github/Selos%20dos%20desafios%20da%20quest%20Google%20Cloud%20Essentials/Workspace%20Essentials.png?raw=true">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="65" src="https://github.com/PedrohvFernandes/Pedrohvfernandes/blob/main/.github/Selos%20dos%20desafios%20da%20quest%20Google%20Cloud%20Essentials/SDK%20Command%20Line.png?raw=true">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="65" src="https://github.com/PedrohvFernandes/Pedrohvfernandes/blob/main/.github/Selos%20dos%20desafios%20da%20quest%20Google%20Cloud%20Essentials/Kubernetes%20in%20Google%20Cloud.png?raw=true">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="65" src="https://github.com/PedrohvFernandes/Pedrohvfernandes/blob/main/.github/Selos%20dos%20desafios%20da%20quest%20Google%20Cloud%20Essentials/Baseline-Infrastructure.png?raw=true">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="65" src="https://github.com/PedrohvFernandes/Pedrohvfernandes/blob/main/.github/Selos%20dos%20desafios%20da%20quest%20Google%20Cloud%20Essentials/VM%20Migration.png?raw=true">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+</p>  
+
 ## Contact :iphone:
 
 <p align="center">
