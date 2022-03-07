@@ -14,8 +14,8 @@
 
 ### Sobre mim
 
-- 👨‍💻 Pretendo me tornar um otimo **Desenvolvedor**.
-- 🌱 Estudante de Sistema de Informação na Newton Paiva, 5° semestre.
+- 👨‍💻 Pretendo me tornar um otimo **Desenvolvedor-Web**.
+- 🌱 Estudante de TI/SI
 - 💙 Interesse: Java, HTML, CSS, JS e React
 - :video_game: Gosta de jogar League of Legends? É só chamar, vamos subir de elo juntos ou não kkkkkkkk
 
