@@ -15,7 +15,7 @@
 ### Sobre mim
 
 - 👨‍💻 Pretendo me tornar um otimo **Desenvolvedor-Web**.
-- 🌱 Estudante de TI
+- 🌱 Estudante de SI/TI Newton Paiva
 - 💙 Interesse: Java, HTML, CSS, JS e React
 - :video_game: Gosta de jogar League of Legends? É só chamar, vamos subir de elo juntos ou não kkkkkkkk
 
