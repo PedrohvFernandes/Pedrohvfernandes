@@ -1,8 +1,5 @@
 <div>
-  <div align="center">
-    <img   height="300" width="800" src=https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif> </img>
-  </div>
-                       
+          
   <p align="center">
     <a href="https://github.com/PedrohvFernandes">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PedrohvFernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -10,7 +7,7 @@
   </p>
 
  
-   ## Opa! Eu sou o Pedro Henrique <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+   ## Opa! Eu sou o Pedro Henrique</h2>
 
 ### Sobre mim
 
