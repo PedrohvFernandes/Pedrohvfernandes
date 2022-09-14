@@ -12,7 +12,7 @@
 ### Sobre mim
 
 - 👨‍💻 Pretendo me tornar um otimo **Desenvolvedor-Web Front-end**.
-- 🌱 Estudante de SI/TI Newton Paiva
+- 🌱 Estudante de SI/TI
 - 💙 Interesse: HTML, CSS, JS, TailwindCss, React, React Native, Nodejs e Figma
 - :video_game: Gosta de jogar League of Legends? É só chamar, vamos subir de elo juntos ou não kkkkkkkk
 
