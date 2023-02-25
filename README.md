@@ -118,9 +118,19 @@
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/PedrohvFernandes/count.svg" />
  </p>
-
 </p>
-
+          
+ ## Ouvindo no Spotify 🎶
+ &nbsp;<div align="center">
+           
+  [![Spotify](https://novatorem-gxaoh4vdj-pedrohvfernandes.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/22vyq5objwwg2opuv5gjyaxcq) 
+           
+ </div>   
+          
+ &nbsp;<div align="center">     
+          
   ![Snake animation](https://github.com/PedrohvFernandes/PedrohvFernandes/blob/output/github-contribution-grid-snake.svg)
- 
+          
+ </div> 
+          
 </div>
