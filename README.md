@@ -11,7 +11,7 @@
 
 ### Sobre mim
 
-- 👨‍💻 **Desenvolvedor-Web Front-end e Back-end**.
+- 👨‍💻 **Desenvolvedor-Web Front-end e Back-end usando Node.js**.
 - 🌱 Estudante de SI/TI
 - 💙 Interesses principais: HTML, CSS, JS, TS, TailwindCss, React, React Native, Nodejs, express, prisma e Figma
 - :video_game: Gosta de jogar League of Legends? É só chamar, vamos subir de elo juntos ou não kkkkkkkk
