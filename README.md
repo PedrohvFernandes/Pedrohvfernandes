@@ -17,7 +17,7 @@
 - :video_game: Gosta de jogar League of Legends? É só chamar, vamos subir de elo juntos ou não kkkkkkkk
 - 📃[Meu portfolio](https://pedrohvfernandes-web-page-portfolio.vercel.app)
 - 🔗[Linkedin](https://www.linkedin.com/in/pedro-henrique-vieira-fernandes/)
-
+- 🔗[konect.gg](https://konect.gg/PedroPeripecias)
 
 ## Skills: tecnologias e ferramentas :nerd_face:
   
