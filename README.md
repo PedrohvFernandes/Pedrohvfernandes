@@ -16,6 +16,7 @@
 - 💙 Interesses principais: HTML, CSS, JS, TS, TailwindCss, React, React Native, Nodejs, express, prisma e Figma
 - :video_game: Gosta de jogar League of Legends? É só chamar, vamos subir de elo juntos ou não kkkkkkkk
 - 📃[Meu portfolio](https://pedrohvfernandes-web-page-portfolio.vercel.app)
+- 🔗[Linkedin](https://www.linkedin.com/in/pedro-henrique-vieira-fernandes/)
 
 
 ## Skills: tecnologias e ferramentas :nerd_face:
