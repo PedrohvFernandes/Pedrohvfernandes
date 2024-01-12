@@ -12,7 +12,7 @@
 ### Sobre mim
 
 - 👨‍💻 **Desenvolvedor-Web Front-end e Back-end usando Node.js**.
-- 🌱 Estudante de SI/TI
+- 🌱 Estudante de SI/TI e dev web front-end e back-end com node.js
 - 💙 Interesses principais: HTML, CSS, JS, TS, TailwindCss, React, React Native, Nodejs, express, prisma e Figma
 - :video_game: Gosta de jogar League of Legends? É só chamar, vamos subir de elo juntos ou não kkkkkkkk
 - 📃[Meu portfolio](https://pedrohvfernandes-web-page-portfolio.vercel.app)
