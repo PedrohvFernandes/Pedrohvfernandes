@@ -12,7 +12,7 @@
 ### About me
 
 - 👨‍💻 **Web-Developer Front-end and Back-end using Node.js**.
-- 🌱 Estudante de SI/TI e dev web front-end e back-end com node.js
+- 📖 Nunca deixamos de ser estudantes, pois a vida sempre terá algo novo a nos mostrar, por isso estou em constante aprendizado
 - 💙 Interesses principais: HTML, CSS, JS, TS, TailwindCss, React, React Native, Nodejs, express, prisma e Figma
 - :video_game: Gosta de jogar League of Legends? É só chamar, vamos subir de elo juntos ou não kkkkkkkk
   <p align="center">
