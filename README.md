@@ -115,7 +115,7 @@
 
 <p align="center">
     <a href="https://www.youtube.com/channel/UCTh24bNmq62KintRmpSnZxQ" target="_blank">
-      <img src="https://img.shields.io/badge/-Youtube-%23333?style=flet&logo=youtube&logoColor=white" target="_blank">
+      <img src="https://img.shields.io/badge/-Youtube-%23333?style=flet&logo=youtube&logoColor=white&color=red" target="_blank">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href = "mailto: pedrohv20fernandes@gmail.com">
