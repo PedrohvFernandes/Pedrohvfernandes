@@ -9,19 +9,32 @@
  
  ## Opa! Eu sou o Pedro Henrique
 
-### Sobre mim
+### About me
 
-- 👨‍💻 **Desenvolvedor-Web Front-end e Back-end usando Node.js**.
+- 👨‍💻 **Web-Developer Front-end and Back-end using Node.js**.
 - 🌱 Estudante de SI/TI e dev web front-end e back-end com node.js
 - 💙 Interesses principais: HTML, CSS, JS, TS, TailwindCss, React, React Native, Nodejs, express, prisma e Figma
 - :video_game: Gosta de jogar League of Legends? É só chamar, vamos subir de elo juntos ou não kkkkkkkk
-- 📃[Meu portfolio](https://pedrohvfernandes-web-page-portfolio.vercel.app)
-- 🔗[Linkedin](https://www.linkedin.com/in/pedro-henrique-vieira-fernandes/)
-- 🔗[konect.gg](https://konect.gg/PedroPeripecias)
+  <p align="center">
+   <a href="pedrohvfernandes-web-page-portfolio.vercel.app" target="_blank">
+   <img src="https://img.shields.io/badge/Portfolio-you?style=flat&logo=aboutdotme&label=My&color=blue&link=https%3A%2F%2Fpedrohvfernandes-web-page-portfolio.vercel.app">
+  </a>
+               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pedro-henrique-vieira-fernandes/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+  </a>
+               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://konect.gg/PedroPeripecias" target="_blank">
+   <img src="https://img.shields.io/badge/Konect-you?style=flat&labelColor=black&label=My&logo=aboutdotme&color=yellow">
+  </a>  
+  </p>
 
-## Skills: tecnologias e ferramentas :nerd_face:
+
+
+
+## Skills: Technologies and Tools :nerd_face:
   
-  ### Front-end
+  ### Front-end 💻
   
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -48,7 +61,7 @@
   <img height="60" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-  ### Back-end
+  ### Back-end 😶‍🌫️
   
    <img height="40" src="https://github.com/amido/azure-vector-icons/blob/master/renders/sql-database-generic.png">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -69,7 +82,7 @@
    <img height="40" src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-  ### Back-end e Front-end
+  ### Back-end and Front-end 👨‍💻
   
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -78,7 +91,7 @@
   <img height="40" src="https://raw.githubusercontent.com/colinhacks/zod/HEAD/logo.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-  ### Ferramentas
+  ### Tools 🔧⚙️
   
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -104,33 +117,34 @@
 ## Contact :iphone:
 
 <p align="center">
-    <a href="https://www.youtube.com/channel/UCTh24bNmq62KintRmpSnZxQ" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+    <a href="https://www.youtube.com/channel/UCTh24bNmq62KintRmpSnZxQ" target="_blank">
+      <img src="https://img.shields.io/badge/-Youtube-%23333?style=flet&logo=youtube&logoColor=white" target="_blank">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href = "mailto: pedrohv20fernandes@gmail.com">
- <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=flet&logo=gmail&logoColor=white" target="_blank">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/pedro-henrique-vieira-fernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <a href="https://www.linkedin.com/in/pedro-henrique-vieira-fernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flet&logo=linkedin&logoColor=white" target="_blank">
     </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://www.instagram.com/pedro17fernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+     <a href="https://www.instagram.com/pedro17fernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flet&logo=instagram&logoColor=white" target="_blank">
     </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="https://github.com/PedrohvFernandes">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/PedrohvFernandes">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=flet&logo=github&logoColor=white&link=mailto:https://github.com/PedrohvFernandes">
     </a>
 </p>
 
 <p align="center"> 
 
- ## Total de Visitas no perfil :detective: <br>
+ ## Total Profile Visits :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/PedrohvFernandes/count.svg" />
  </p>
 </p>
           
- ## Ouvindo no Spotify 🎶
+ ## Listening on Spotify 🎶
  &nbsp;<div align="center">
            
   [![Spotify](https://novatorem-gxaoh4vdj-pedrohvfernandes.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/22vyq5objwwg2opuv5gjyaxcq) 
