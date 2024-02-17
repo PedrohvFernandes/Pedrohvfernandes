@@ -16,7 +16,7 @@
 - 💙 Interesses principais: HTML, CSS, JS, TS, TailwindCss, React, React Native, Nodejs, express, prisma e Figma
 - :video_game: Gosta de jogar League of Legends? É só chamar, vamos subir de elo juntos ou não kkkkkkkk
   <p align="center">
-   <a href="pedrohvfernandes-web-page-portfolio.vercel.app" target="_blank">
+   <a href="https://pedrohvfernandes-web-page-portfolio.vercel.app" target="_blank">
      <img height="25" src="https://img.shields.io/badge/Portfolio-you?style=flat&logo=aboutdotme&label=My&color=blue&link=https%3A%2F%2Fpedrohvfernandes-web-page-portfolio.vercel.app">
    </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
