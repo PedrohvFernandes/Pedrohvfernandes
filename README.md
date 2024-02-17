@@ -7,7 +7,7 @@
 </div>
 
  
- ## Opa! Eu sou o Pedro Henrique
+ # Opa! Eu sou o Pedro Henrique
 
 ### About me
 
@@ -29,12 +29,9 @@
   </a>  
   </p>
 
-
-
-
-## Skills: Technologies and Tools :nerd_face:
+# Skills: Technologies and Tools :nerd_face:
   
-  ### Front-end 💻
+  ## Front-end 💻
   
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -61,7 +58,7 @@
   <img height="60" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-  ### Back-end 😶‍🌫️
+  ## Back-end 😶‍🌫️
   
    <img height="40" src="https://github.com/amido/azure-vector-icons/blob/master/renders/sql-database-generic.png">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -82,7 +79,7 @@
    <img height="40" src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-  ### Back-end and Front-end 👨‍💻
+  ## Back-end and Front-end 👨‍💻
   
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -91,7 +88,7 @@
   <img height="40" src="https://raw.githubusercontent.com/colinhacks/zod/HEAD/logo.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-  ### Tools 🔧⚙️
+  ## Tools 🔧⚙️
   
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
